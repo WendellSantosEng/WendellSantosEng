@@ -17,7 +17,6 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
  &nbsp;
 
 
-
 ## My Skills
 
 #### Main Stack:
