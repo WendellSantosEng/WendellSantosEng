@@ -10,7 +10,6 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendellSantosEng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-</div>
  
  &nbsp;
  &nbsp;
