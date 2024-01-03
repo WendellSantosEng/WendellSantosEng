@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
  
 
-<p align="center">Editing README ... </p>&nbsp;
+<p align="center">Hello, my name is Wendell and I have been programming since 2022. I am currently studying Computer Engineering at the State University of Minas Gerais (UEMG) - Brazil . Follow me to follow my professional development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WendellSantosEng&theme=radical&mode=weekly" />
