@@ -28,7 +28,7 @@
 
 #### Studying in this moment:
 
-![Eng](https://img.shields.io/badge/comp%20eng-FFFFFF?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Eng](https://img.shields.io/badge/comp%20eng-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
