@@ -1,7 +1,7 @@
-
+<!--
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/WendellSantosEng/WendellSantosEng/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
- 
+Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquanto -->
 
 <p align="center">Hello, my name is Wendell and I have been programming since 2022. I am currently studying Computer Engineering at the State University of Minas Gerais (UEMG) - Brazil . Follow me to follow my professional development.</p>&nbsp;
 
