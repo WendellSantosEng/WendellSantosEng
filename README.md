@@ -7,8 +7,10 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=WendellSantosEng&theme=radical&mode=weekly" />
-<div align="center">
-  <img width="40%" src="https://github-readme-stats-git-main-WendellSantosEng.vercel.app/api/top-langs/?username=WendellSantosEng&show_icons=true&theme=radical&layout=compact" alt="Top Languages">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendellSantosEng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que uso meu dia 👨‍💻
 </div>
  </div>
  
