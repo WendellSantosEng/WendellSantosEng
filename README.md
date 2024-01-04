@@ -22,6 +22,7 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 
 #### Main Stack:
 
+![Eng](https://img.shields.io/badge/comp%20eng-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
