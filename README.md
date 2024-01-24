@@ -26,6 +26,7 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![PySide6](https://img.shields.io/badge/PySide6-00FF00?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
