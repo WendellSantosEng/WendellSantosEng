@@ -35,7 +35,7 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 ![PySide6](https://img.shields.io/badge/PySide6-00FF00?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
@@ -45,7 +45,7 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 
 #### Databases (Studying in this moment) :
 
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
