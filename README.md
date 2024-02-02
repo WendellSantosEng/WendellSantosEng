@@ -42,6 +42,7 @@ Esta é uma imagem que deve estar na mesma pasta do Redme, nao existe por enquan
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![DOCKER](https://img.shields.io/badge/DOCKER-cyan?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-white?border-blue-style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 #### Studying in this moment:
 
