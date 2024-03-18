@@ -26,7 +26,6 @@ Esta é uma imagem que deve estar na mesma pasta do Readme, nao existe por enqua
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-DAD300?style=for-the-badge&logo=Javascript&logoColor=orange)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -49,6 +48,7 @@ Esta é uma imagem que deve estar na mesma pasta do Readme, nao existe por enqua
 ![Eng](https://img.shields.io/badge/comp%20eng-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-E1E1E1?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-DAD300?style=for-the-badge&logo=Javascript&logoColor=orange)&nbsp;
 
 #### Workstation Tools:
 
