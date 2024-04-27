@@ -53,7 +53,6 @@ Esta é uma imagem que deve estar na mesma pasta do Readme, nao existe por enqua
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
