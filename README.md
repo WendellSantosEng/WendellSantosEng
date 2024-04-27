@@ -49,7 +49,6 @@ Esta é uma imagem que deve estar na mesma pasta do Readme, nao existe por enqua
 ![Eng](https://img.shields.io/badge/comp%20eng-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-E1E1E1?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-DAD300?style=for-the-badge&logo=Javascript&logoColor=orange)&nbsp;
 
 #### Workstation Tools:
 
