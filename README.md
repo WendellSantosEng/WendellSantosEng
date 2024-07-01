@@ -37,7 +37,7 @@ Esta é uma imagem que deve estar na mesma pasta do Readme, nao existe por enqua
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-c8c8fa?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQuery-0769ad?style=for-the-badge&logo=JQuery&logoColor=white)&nbsp;
 ![PySide6](https://img.shields.io/badge/PySide6-00FF00?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;
-[![SQL](https://img.shields.io/badge/Sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp)
+[![SQL](https://img.shields.io/badge/Sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 #### A Bit of DevOps (In Study):
 
