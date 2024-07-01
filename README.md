@@ -32,11 +32,12 @@ Esta é uma imagem que deve estar na mesma pasta do Readme, nao existe por enqua
 
 #### Secondary Stack:
 
-![PySide6](https://img.shields.io/badge/PySide6-00FF00?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-c8c8fa?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/JQuery-0769ad?style=for-the-badge&logo=JQuery&logoColor=white)&nbsp;
+![PySide6](https://img.shields.io/badge/PySide6-00FF00?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;
+[![SQL](https://img.shields.io/badge/Sql-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp)
 
 #### A Bit of DevOps (In Study):
 
